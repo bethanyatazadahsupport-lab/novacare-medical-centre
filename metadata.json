@@ -1,0 +1,6 @@
+{
+  "name": "NovaCare Medical Centre",
+  "description": "Premium multi-specialty private medical clinic website featuring virtual health assistant, online appointment scheduling, and comprehensive specialist directory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
